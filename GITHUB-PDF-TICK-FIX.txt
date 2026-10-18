@@ -1,0 +1,10 @@
+AutoPulse PDF checkbox tick fix
+
+This package contains the complete AutoPulse dashboard source, including all HTML pages, CSS, JavaScript, and README.
+
+Important file for the report checkbox behavior:
+  assets/app.js
+
+To update an existing GitHub repository, replace the repository's assets/app.js with the one in this package and commit the change. Keep the path and filename the same. If deploying from GitHub, allow your hosting provider to redeploy, then test by saving a service with selected tasks and downloading a new PDF.
+
+Reports are generated from the tasks saved in the service record. The PDF export draws a visible tick next to each included completed task. Older PDFs will not change; download a new report after deployment.

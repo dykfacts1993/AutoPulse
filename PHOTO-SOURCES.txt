@@ -1,0 +1,7 @@
+AutoPulse demo photo sources
+
+Hero / vehicle workshop: Bugatti customer-service image endpoint: https://bugatti.imgix.net/675235ee6c90694f762a67f2/01-04-bugatti-service-workshop.jpg
+McLaren service workshop: https://www.ccs-ge.co.uk/images/ccs-projects/project-gallery/mclaren/ascot/mclaren-ascot-project-gallery-image-2.png
+Supercar service centre: https://www.doerrgroup.com/assets/image-cache/standard.a27349a7.mood_02.75947d89.webp
+
+Images load remotely at runtime. Please verify terms and permissions for your intended commercial deployment.
